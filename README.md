@@ -3,6 +3,7 @@
 2. 要求详细注释
 3. 最晚提交截止时间为每周一晚21点,同为下周WeekWork的起始时间
 4. 每道题命名规则为:题号_题名_算法.cpp/.c 例如:123_买卖股票的最佳时机III_动归.cpp/.c
+5. 每周六上午8:00-11:30安排定时编程，两道题目
 ## WeekWork 初始化 已排序
 1. 本地创建ACM文件夹并`git init`为git的工作目录
 2. `git clone`仓库[SIASACM/WeekWork](https://github.com/SIASACM/WeekWork)至本地ACM文件夹
